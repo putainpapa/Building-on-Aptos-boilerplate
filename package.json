@@ -1,0 +1,21 @@
+{
+  "name": "building-on-aptos-boilerplate",
+  "version": "1.0.0",
+  "description": "npm start",
+  "main": "yes",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "npm",
+    "cache",
+    "clean",
+    "--force"
+  ],
+  "author": "",
+  "license": "ISC"
+}
